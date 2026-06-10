@@ -63,10 +63,15 @@ Docker-based lost & found web application focused on scalable deployment and clo
 ### Tech Used
 Python • Docker • Flask/FastAPI • MySQL • Linux
 
+🔗 GitHub: https://github.com/kee20-cs/Cloud-find
+
+## 📌 Professional Network Management System
+A Flask-based web application integrated with MySQL that simulates a real-world professional networking and recruitment platform. The system manages users, companies, certifications, and job postings while supporting complete CRUD operations, dynamic search and filtering, and relational database management.
+
+### Tech used 
+Python • Flask • MySQL • HTML/CSS • SQL • Git & GitHub
+
 🔗 GitHub: 
-
-
-
 
 # 📚 Currently Learning
 
@@ -80,6 +85,7 @@ Python • Docker • Flask/FastAPI • MySQL • Linux
 
 # 🌐 Connect With Me
 
+- Github: https://github.com/kee20-cs
 - LinkedIn: www.linkedin.com/in/keerthana-sreekanth
 - Email: keerthana150404@gmail.com
 
