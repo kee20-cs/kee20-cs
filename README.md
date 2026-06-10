@@ -1,100 +1,98 @@
-# Hi, I'm Keerthana S 👋
+<!-- Header -->
+<div align="center">
 
-🎓 B.Tech Data Science Student at Vidyashilp University  
-💻 Interested in Artificial Intelligence, Backend Development, Cloud Computing, and Data Analytics  
-🚀 Currently building practical projects, improving development skills, and exploring AI-powered applications and scalable systems
+```
+// hello world
+```
 
----
+# Keerthana Sreekanth
 
-# 🧠 About Me
+**B.Tech Data Science · Vidyashilp University · Bengaluru**
 
-🎓 Data Science undergraduate passionate about technology and problem solving  
-🔭 Currently working on AI-based and cloud-integrated development projects  
-🌱 Learning Backend Development, APIs, Cloud Deployment, and AI workflows  
-💡 Interested in building real-world applications using AI, data, and automation  
-📊 Enjoy working on analytics, dashboards, and data visualization projects  
-⚡ Learning through hands-on development, experimentation, and project building
+![AI/ML](https://img.shields.io/badge/AI%20%2F%20ML-%237F77DD?style=flat-square&logoColor=white)
+![Deep Learning](https://img.shields.io/badge/Deep%20Learning-%231D9E75?style=flat-square&logoColor=white)
+![Backend Dev](https://img.shields.io/badge/Backend%20Dev-%23378ADD?style=flat-square&logoColor=white)
+![Cloud Computing](https://img.shields.io/badge/Cloud%20Computing-%23D85A30?style=flat-square&logoColor=white)
+![Data Analytics](https://img.shields.io/badge/Data%20Analytics-%23BA7517?style=flat-square&logoColor=white)
 
----
-
-# 🛠 Tech Stack
-
-## Languages
-- Python
-- SQL
-- R
-- HTML
-- CSS
-- Basic JavaScript
-
-## Development & Tools
-- FastAPI
-- Flask
-- Docker
-- Git & GitHub
-- MySQL
-- Ubuntu Linux
-
-## Data & Visualization
-- Pandas
-- NumPy
-- Power BI
-- Matplotlib
-- Seaborn
-- Jupyter Notebook
+</div>
 
 ---
 
-# 🚀 Featured Projects
-
-## 📌 AI PicStory
-AI-powered media generation platform that converts uploaded image ZIP files into multilingual Instagram-ready video reels.
-
-### Tech Used
-Python • AI Workflows • Media Processing • Web Development
-
-🔗 GitHub: https://github.com/kee20-cs/Picstory-.git
+I'm a Data Science undergrad who builds things where AI meets real-world utility — multilingual media pipelines, containerized web platforms, and relational systems that actually work at scale. I'm drawn to problems that sit at the intersection of machine learning, backend engineering, and data, and I believe the best way to learn is to ship. Currently levelling up in deep learning, scalable API design, and cloud deployment while working on projects that push past the tutorial stage.
 
 ---
 
-## 📌 CloudFind
-Docker-based lost & found web application focused on scalable deployment and cloud-based management concepts.
+## 🛠 Tech Stack
 
-### Tech Used
-Python • Docker • Flask/FastAPI • MySQL • Linux
-
-🔗 GitHub: https://github.com/kee20-cs/Cloud-find
-
-## 📌 Professional Network Management System
-A Flask-based web application integrated with MySQL that simulates a real-world professional networking and recruitment platform. The system manages users, companies, certifications, and job postings while supporting complete CRUD operations, dynamic search and filtering, and relational database management.
-
-### Tech used 
-Python • Flask • MySQL • HTML/CSS • SQL • Git & GitHub
-
-🔗 GitHub: 
-
-# 📚 Currently Learning
-
-- FastAPI & Backend Development
-- React Fundamentals
-- PostgreSQL & Database Design
-- Docker & Cloud Deployment
-- AI Integrations & Automation
-- Machine Learning Fundamentals
-
-
-# 🌐 Connect With Me
-
-- Github: https://github.com/kee20-cs
-- LinkedIn: www.linkedin.com/in/keerthana-sreekanth
-- Email: keerthana150404@gmail.com
+| Languages | Frameworks & Tools | Data & Viz |
+|---|---|---|
+| Python · SQL · R · HTML/CSS · JS | FastAPI · Flask · Docker · Git · MySQL | Pandas · NumPy · Power BI · Matplotlib · Seaborn |
 
 ---
 
-# ⚡ Goals for 2026
+##  Featured Projects
 
-- Build strong AI-powered and full-stack applications
-- Improve backend development and deployment skills
-- Learn scalable system and API design
-- Strengthen problem-solving and development workflows
-- Contribute to impactful real-world software projects
+###  AI PicStory
+>AI-powered media generation
+> A platform that takes a ZIP of images as input and automatically produces multilingual, Instagram-ready video reels. The system handles media ingestion, AI-driven narration or caption generation, language selection, and video rendering — making content creation accessible without manual editing.
+> What I built: end-to-end AI workflow covering file handling, media processing, multilingual output generation, and web delivery — connecting multiple tools into a single coherent pipeline.
+
+`Python` `AI Workflows` `Media Processing` `Web Development`
+🔗 [GitHub](https://github.com/kee20-cs/Picstory-.git)
+
+---
+
+### ☁️ CloudFind
+> Containerized lost & found platform.
+> A fully Dockerized lost and found web application built with Flask/FastAPI and a MySQL backend. The project focused on realistic cloud deployment patterns — container orchestration, environment configuration, database persistence across containers, and clean separation of the app and data layers.
+> What I built: end-to-end AI workflow covering file handling, media processing, multilingual output generation, and web delivery — connecting multiple tools into a single coherent pipeline.
+
+`Python` `Docker` `Flask/FastAPI` `MySQL` `Linux`
+🔗 [GitHub](https://github.com/kee20-cs/Cloud-find)
+
+---
+
+### 🔗 Professional Network Management System
+> Flask + MySQL system
+> A Flask web application that simulates a professional networking and recruitment platform — managing users, companies, certifications, and job postings through a normalised relational database. Supports full CRUD operations, dynamic search and filtering, and multi-table joins to reflect real-world HR data relationships.
+> What I built: a system that goes beyond basic CRUD to model realistic data relationships — designed with proper schema design, query optimisation, and a clean UI for navigating complex relational data.
+
+`Python` `Flask` `MySQL` `HTML/CSS` `SQL` `Git`
+🔗 [GitHub](https://github.com/kee20-cs/professional-network-management-system.git)
+
+---
+
+## 📚 Currently Learning
+
+```
+FastAPI & APIs          →  Machine Learning       →  Deep Learning (CNNs, NLP)
+React Fundamentals      →  PostgreSQL & DB Design →  Docker & Cloud Deployment
+AI Integrations         →  LLM Workflows & Agents →  Scalable System Design
+```
+
+---
+
+## 🎯 2026 Goals
+
+```
+01  Ship production-ready AI-powered and full-stack applications
+02  Go deeper into ML/DL — from fundamentals to deployed models
+03  Master scalable system design and RESTful API architecture
+04  Contribute to open-source and real-world software projects
+05  Build a strong public portfolio and engineering presence
+```
+
+---
+
+## 🤝 Connect With Me
+
+[![GitHub](https://img.shields.io/badge/GitHub-kee20--cs-181717?style=flat-square&logo=github)](https://github.com/kee20-cs)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-keerthana--sreekanth-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/keerthana-sreekanth)
+[![Email](https://img.shields.io/badge/Email-keerthana150404@gmail.com-EA4335?style=flat-square&logo=gmail)](mailto:keerthana150404@gmail.com)
+
+---
+
+<div align="center">
+<sub>always building · always learning</sub>
+</div>
